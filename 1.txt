@@ -1,1 +1,2 @@
 local
+modify-clone-file:1.txt

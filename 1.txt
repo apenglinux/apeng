@@ -1,2 +1,4 @@
 local
 modify-clone-file:1.txt
+I am server
+edit condition
